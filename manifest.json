@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Fastest Optimization Client for mcpe & bedrock edition
+§c note only 60 fov §ecan use with this pack maybe can glitch by adjusting fov values 
+
+sorry i am bad on grammar :>",
+        "name": "§lCheetah - Client §l[CC§cv2.0§l]",
+        "uuid": "4e1c1eac-4a6e-429d-b4f9-2fdba1af6701",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "JX Presents",
+            "type": "resources",
+            "uuid": "ec6e3be9-6813-43c4-878c-2ff78cb23df3",
+            "version": [0, 0, 1]
+        }
+    ]
+}
